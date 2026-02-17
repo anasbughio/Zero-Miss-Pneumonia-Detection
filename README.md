@@ -101,8 +101,3 @@ By lowering the decision threshold to **0.23**, we eliminated all False Negative
 
 ---
 
-## 🤝 Contribution
-Contributions are welcome! If you want to test this ensemble on other medical datasets (e.g., COVID-19 or Tuberculosis), please fork the repo and submit a pull request.
-
-## 📜 License
-This project is licensed under the MIT License.
